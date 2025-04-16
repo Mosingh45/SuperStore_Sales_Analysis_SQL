@@ -1,0 +1,56 @@
+# 🛍️ Superstore Sales Analysis – SQL + Excel BI Project
+
+## 🚀 Project Overview:
+This project delivers a complete business intelligence analysis of a retail Superstore dataset using **Excel** for data cleaning and **PostgreSQL** for analytical querying. From structured data transformation to sales insights and customer segmentation, this case study reflects real-world data analysis workflows.
+
+---
+
+## 🛠️ Tools Used:
+- 📊 Microsoft Excel (Data Cleaning)
+- 🐘 PostgreSQL (Structured Query Language)
+- 📈 Tableau (For advanced visualization - optional)
+
+---
+
+## 🧹 Data Cleaning (Excel):
+- `TRIM()` – Removed extra spaces
+- `PROPER()` – Standardized case formatting
+- `SUBSTITUTE()` – Replaced problematic characters
+- `COUNTBLANK()` – Detected missing data
+
+---
+
+## 🗂️ Database Schema:
+Four relational tables:
+1. **Customers**
+2. **Orders**
+3. **Products**
+4. **Sales_Data**
+
+Each was designed, normalized, and loaded through CSV imports using PostgreSQL.
+
+---
+
+## 📊 KPIs & Insights:
+- ✅ Total Sales, Profit, Quantity, and Orders
+- 📈 Monthly Sales Trend
+- 💰 Profit Margin Analysis
+- 🏆 Top Customers & Most Profitable Products
+- 🌍 Region-wise Sales Comparison
+- 🔄 Segment-wise Performance
+
+---
+
+## 🧠 Key SQL Features Used:
+- `JOIN`, `GROUP BY`, `ORDER BY`
+- `CAST()`, `ROUND()`, `TO_CHAR()`
+- Aggregate functions: `SUM()`, `COUNT()`, `AVG()`
+
+---
+
+## ✅ Conclusion:
+This BI project helped uncover performance insights and sales patterns to guide better decision-making. A powerful mix of Excel + SQL makes this project an excellent example of real-world business data analysis.
+
+---
+
+🔗 **Contact:** Mohit Singh | Aspiring Data Analyst | 
